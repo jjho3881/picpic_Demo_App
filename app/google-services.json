@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "23211614030",
+    "firebase_url": "https://picpicsource.firebaseio.com",
+    "project_id": "picpicsource",
+    "storage_bucket": "picpicsource.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23211614030:android:df4af9dc16c89204",
+        "android_client_info": {
+          "package_name": "com.google.sample.cloudvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23211614030-u4gmmeu3pfbbtfkbs4i1pieup5ga8lsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.sample.cloudvision",
+            "certificate_hash": "43a82d31309f90090d68fe45117c495a2f2727fa"
+          }
+        },
+        {
+          "client_id": "23211614030-8s3aprit5fotg2n8jtiburirjkehlqun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTPdXTpHozhv9YStUrxjbGzWRQe664HA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23211614030-8s3aprit5fotg2n8jtiburirjkehlqun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
